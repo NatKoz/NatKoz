@@ -1,16 +1,13 @@
-### Hi there 👋
+![](https://capsule-render.vercel.app/api?type=waving&color=B97A63&height=300&section=header&text=Welcome!&fontSize=85&fontColor=f7f5f5&desc=on%20my%20GitHub%20profile!&descSize=20&descAlign=70)
 
-<!--
-**NatKoz/NatKoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Natalia and I made this page for everyone who wants to know more about me!
 
-Here are some ideas to get you started:
+----
+#### Skills & Experience
+----
+* Python 
+* __[ALPS](http://alps.comp-phys.org)__ 
+* HTML | JS | CSS
 
-- 🔭 I’m currently working on testing my github profile 
-- 🌱 I’m currently learning ..
-- 👯 I’m looking to collaborate on ..
-- 🤔 I’m looking for help with ..
-- 💬 Ask me about ..
-- 📫 How to reach me: ..
-- 😄 Pronouns: ..
-- ⚡ Fun fact: ..
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NatKoz)  
+
